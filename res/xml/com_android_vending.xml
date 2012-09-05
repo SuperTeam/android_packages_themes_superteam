@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_androidmarket">@drawable/com_android_vending_ic_launcher_androidmarket</item>
+    <item name="drawable/widget_title_bg">@drawable/com_android_vending_widget_title_bg</item>
+    <item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+    <item name="drawable/appwidget_bg_focus">@drawable/appwidget_bg_focus</item>
+    <item name="drawable/appwidget_bg_press">@drawable/appwidget_bg_press</item>
+</resource-redirections>
